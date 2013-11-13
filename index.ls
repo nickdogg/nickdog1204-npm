@@ -1,4 +1,4 @@
 require! {
   colors
 }
-console.log "hello".red, "world".green
+console.log "hello".red, "fffffffffffffffffffffff".green
