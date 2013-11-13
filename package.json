@@ -1,0 +1,19 @@
+{
+  "name": "npmTest",
+  "version": "0.0.0",
+  "description": "A minimal Node project for the npm Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "example"
+  ],
+  "author": "Nick Dog",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "colors": "~0.6.2",
+    "LiveScript": "~1.2.0"
+  }
+}
