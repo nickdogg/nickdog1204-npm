@@ -1,6 +1,6 @@
 {
   "name": "nickdog1204-npm",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A minimal Node project for the npm Book",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,6 @@
   "author": "Nick Dog",
   "license": "BSD-2-Clause",
   "dependencies": {
-    
-  },
-  "dependencies": {
     "async": "~0.2.9",
     "lazy": "~1.0.11",
     "express": "~3.4.4",
@@ -23,7 +20,6 @@
     "colors": "~0.6.2",
     "LiveScript": "~1.2.0"
   },
-  
   "devDependencies": {},
   "repository": {
     "type": "git",
