@@ -1,6 +1,6 @@
 {
   "name": "nickdog1204-npm",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A minimal Node project for the npm Book",
   "main": "index.js",
   "scripts": {
